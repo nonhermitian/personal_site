@@ -1,6 +1,17 @@
-#####
-About
-#####
+########
+Hi there
+########
+
+.. toctree::
+  :maxdepth: 2
+  :hidden:
+
+  CV <cv>
+
+.. Hiding - Indices and tables
+   :ref:`genindex`
+   :ref:`modindex`
+   :ref:`search`
 
 I am currently a Research Staff Member in the `IBM Quantum <https://www.ibm.com/quantum-computing/>`_ team at the
 T. J. Watson research lab in Yorktown Heights New York.  I focus on
