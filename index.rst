@@ -2,6 +2,10 @@
 Hi there
 ########
 
+.. note::
+
+    This site is currently being worked on.
+
 .. toctree::
   :maxdepth: 2
   :hidden:
