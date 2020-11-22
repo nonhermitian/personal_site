@@ -47,6 +47,14 @@ Experience
 Honors and Awards
 #################
 
+- 2020 - **Outstanding Research Accomplishment**, "IBM Quantum Cloud Applications and Services", IBM.
+
+- 2020 - **Outstanding Research Accomplishment**, "Quantum Education with Qiskit", IBM.
+
+- 2019 - **Outstanding Technical Achievement Award**, "Qiskit and IBM Q Experience Ecosystem", IBM.
+
+- 2019 - **Corporate Technical Award**, "IBM Q 20-qubit system development and deployment", IBM.
+
 - 2014 - **Outstanding Teaching Award**, (Computational Physics), Korea University.
 
 - 2012 - **Outstanding Teaching Award**, (Introductory Physics), Korea University.
@@ -125,3 +133,64 @@ Quantum analysis of a nonlinear microwave- cavity embedded dc-SQUID displacement
 Modeling biological fluorescence emission spectra using Lorentz line shapes and nonlinear optimization
   - **P. D. Nation**, A. Q. Howard, and L. J. Webb
   - `Appl. Opt. 46, 6192 (2007) <http://www.opticsinfobase.org/ao/abstract.cfm?URI=ao-46-24-6192>`_
+
+
+Computational Programs
+######################
+
+2020-Present - Kaleidoscope
+  - Interactive visualizations for quantum computation.
+  - https://nonhermitian.org/kaleido
+
+2018-Present - Qiskit
+  - Open-source framework for leveraging noisy quantum computers in research, education, and business.
+    Focus on user-facing functionality, visualizations, and performant numerical methods.
+  - `Qiskit.org <https://qiskit.org/>`_
+
+2010-2017 - QuTiP: Quantum Toolbox in Python
+  - Open-source framework for solving the dynamics of open quantum systems. Includes Monte-Carlo and master
+    equation algorithms, supporting arbitrary time-dependent Hamiltonians and Louvillians. Supports
+    multiprocessing and Cython based just-in-time (JIT) programming for compiled execution of time-dependent
+    Hamiltonians. In collaboration with Dr. Robert J. Johansson.
+  - `QuTiP.org <http://qutip.org/>`_
+
+2014-2015 - SciPy
+  - Author of Reverse Cuthill-McKee, Maximum Bipartite Matching, and Structural Rank sparse matrix algorithms
+    in the scipy.sparse.csgraph module.
+  - `scipy.org <https://www.scipy.org/>`_
+
+
+Conferences
+###########
+
+- 2014 - co-Chair, **Relativistic Quantum Information North**, Seoul, South Korea
+
+
+Invited conferences / workshops
+###############################
+
+-  April 2019 - **Compiling Quantum Circuits for NISQ Processors**, Korea Institute for Advanced Study, Seoul Korea.
+
+- July 2014 - **Quantum Vacuum Amplification**, ”Open KIAS” School on Quantum Information Science, Seoul Korea.
+
+- June 2014 - **Circuit Quantum Electrodynamics: Quantum Optics on a Chip**, 3rd School of Mesoscopic Physics, Buyeo Korea.
+
+- August 2013 - **Nonclassical Mechanical States in an Optomechanical Micromaser Analogue**, Nonlinear Dynamics at the Nanoscale, Pohang Korea.
+
+- November 2012 - **The Superconducting Circuit Warm Up for Fundamental Physics**, 25th Workshop on Nanoscale and Mesoscopic Systems, Pohang Korea.
+
+- February 2012 - **Photon Production from the Quantum Vacuum**, 6th Winter School on Quantum Information Science, Huisun Taiwan.
+
+- September 2010 - **Hawking Radiation as a 1D Quantum Channel**, Quantum Science of Strongly Correlated Systems (QS2C) Theory Forum, RIKEN, Wako-shi Japan.
+
+
+Teaching Experience
+###################
+
+2012-2015 - Lecturer, Department of Physics, Korea University
+  - 2014-2015: PHYS-461: Computational Physics
+  - 2013-2014: PHYS-506: Graduate Quantum Mechanics II
+  - 2013-2015: PHYS-505: Graduate Quantum Mechanics
+  - 2013: PHYS-721: Special Topics in Solid State Physics
+  - 2013: PHYS-183: Physics for Life Scientists
+  - 2012-2014: PHYS-152: Introductory Physics II

@@ -2,14 +2,11 @@
 Hi there
 ########
 
-.. note::
-
-    This site is currently being worked on.
-
 .. toctree::
   :maxdepth: 2
   :hidden:
 
+  Home <self>
   CV <cv>
 
 .. Hiding - Indices and tables
@@ -29,7 +26,11 @@ visualization methods.
     starting with the creation of `QuTiP <http://qutip.org/>`_: Quantum Toolbox in Python in 2010 up to the present
     with the IBM `Qiskit <https://qiskit.org/>`_ framework.  I received my PhD in 2010 from the `Dartmouth College
     Department of Physics and Astronomy <https://physics.dartmouth.edu/>`_ under 
-    `Miles Blencowe <https://physics.dartmouth.edu/people/miles-p-blencowe>`_.  
+    `Miles Blencowe <https://physics.dartmouth.edu/people/miles-p-blencowe>`_.  In addition to numerical methods in
+    quantum optics I have also explored quantum nanomechanical systems, optomechanical system in the quantum regime,
+    analogue gravitational physics, and transport models for Hawking radiation.  Prior to joining IBM, I was 
+    a Staff Physicist at Northrop Grumman, an Assistant Professor at `Korea University <http://physics.korea.ac.kr/>`_,
+    and a postdoctoral researcher in the group of `Franco Nori <https://dml.riken.jp/>`_ at RIKEN just outside of Tokyo.
 
 
 .. container:: right-col
@@ -53,7 +54,7 @@ visualization methods.
 
         import plotly.graph_objects as go
 
-        fig = go.Figure([go.Bar(x=years, y=citations, marker_color='#d16619')])
+        fig = go.Figure([go.Bar(x=years, y=citations, marker_color='#204195')])
 
         fig.update_xaxes(title='Year',
                             titlefont_size=14,
@@ -70,14 +71,14 @@ visualization methods.
         total_citations = sum([int(c) for c in citations])
         fig.update_layout(xaxis_tickangle=-45,
                           plot_bgcolor='#d8d8d8',
-                          title=dict(text='Google Scholar citations ({})'.format(total_citations)),
+                          title=dict(text='Google Scholar citations ({})'.format(total_citations), x=0.5),
                           title_font_size=14,
                           height=300,
                           margin=dict(
                                         l=5,
                                         r=5,
                                         b=20,
-                                        t=30,
+                                        t=80,
                                     ),
                           )
         
