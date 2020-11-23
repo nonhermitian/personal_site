@@ -15,9 +15,11 @@ Hi there
    :ref:`search`
 
 I am currently a Research Staff Member in the `IBM Quantum <https://www.ibm.com/quantum-computing/>`_ team at the
-T. J. Watson research lab in Yorktown Heights New York.  I focus on
+T. J. Watson research lab in Yorktown Heights New York.  I work mainly in the area of
 software development, with a focus on numerical methods and scientific
-visualization methods.
+visualization techniques.  I also explore hardware benchmarking and verification, and occasionally
+help on the ecosystem building side of things through the
+`IBM Q Network <https://www.ibm.com/quantum-computing/ibm-q-network>`_.
 
 
 .. container:: left-col
