@@ -169,7 +169,13 @@ Conferences
 Invited conferences / workshops
 ###############################
 
+- November 2019 - **Progress Toward Quantum Advantage at IBM**, IEEE, Westminster CO, USA.
+
+- June 2019 - **Quantum Computing at IBM**, Federated Computing Research Conference, Phoenix AZ USA.
+
 -  April 2019 - **Compiling Quantum Circuits for NISQ Processors**, Korea Institute for Advanced Study, Seoul Korea.
+
+- June 2018 - **Quantum Compunting @ IBM**, International Super Computing (ISC) 2018, Frankfurt Germany.
 
 - July 2014 - **Quantum Vacuum Amplification**, ”Open KIAS” School on Quantum Information Science, Seoul Korea.
 
