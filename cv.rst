@@ -95,7 +95,7 @@ Iterative solutions to the steady-state density matrix for optomechanical system
   - `Phys. Rev. E 91, 013307 (2015) <http://dx.doi.org/10.1103/PhysRevE.91.013307>`_
 
 A cavity-Cooper pair transistor scheme for investigating quantum optomechanics in the ultra-strong coupling regime
-  - A. J. Rimberg, M. P. Blencowe, A. D. Armour, and **P. D. Nation**
+  - A.J. Rimberg, M. P. Blencowe, A. D. Armour, and **P. D. Nation**
   - `New J. Phys. 16, 055008 (2014) <http://dx.doi.org/10.1088/1367-2630/16/5/055008>`_
 
 Nonclassical mechanical states in an optomechanical micromaser analog
@@ -103,7 +103,7 @@ Nonclassical mechanical states in an optomechanical micromaser analog
   - `Phys. Rev. A 88, 053828 (2013) <http://dx.doi.org/10.1103/PhysRevA.88.053828>`_
 
 QuTiP 2: A Python framework for the dynamics of open quantum systems
-  - J. R. Johansson, **P. D. Nation**, and F. Nori
+  - J.R. Johansson, **P. D. Nation**, and F. Nori
   - `Comp. Phys. Comm. 184, 1234 (2013) <http://dx.doi.org/10.1016/j.cpc.2012.11.019>`_
 
 Non-equilibrium Landauer Transport Model for Hawking Radiation from a Black Hole
@@ -111,7 +111,7 @@ Non-equilibrium Landauer Transport Model for Hawking Radiation from a Black Hole
   - `New J. Phys. 14, 033013 (2012) <http://dx.doi.org/10.1088/1367-2630/14/3/033013>`_
 
 QuTiP: An open-source Python framework for the dynamics of open quantum systems
-  - J. R. Johansson, **P. D. Nation**, and F. Nori
+  - J.R. Johansson, **P. D. Nation**, and F. Nori
   - `Comp. Phys. Comm. 183, 1760 (2012) <http://dx.doi.org/10.1016/j.cpc.2012.02.021>`_
 
 Stimulating uncertainty: Amplifying the quantum vacuum with superconducting circuits
