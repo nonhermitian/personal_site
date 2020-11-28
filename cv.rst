@@ -135,6 +135,18 @@ Modeling biological fluorescence emission spectra using Lorentz line shapes and 
   - `Appl. Opt. 46, 6192 (2007) <http://www.opticsinfobase.org/ao/abstract.cfm?URI=ao-46-24-6192>`_
 
 
+Patents
+#######
+
+Local Optimization of Quantum Circuits
+  - **P. D. Nation**
+  - `US010706365B2 <https://patents.google.com/patent/US10706365B2>`_ (2020).
+
+Visualizing arbitrary pulse shapes and schedules in quantum computing applications
+  - **P. D. Nation**, Naoki Kanazawa, Thomas Arab Alexander
+  - `US10790912B2 <https://patents.google.com/patent/US10790912B2>`_ (2020).
+
+
 Computational Programs
 ######################
 
