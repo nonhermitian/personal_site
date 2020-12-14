@@ -146,6 +146,26 @@ Visualizing arbitrary pulse shapes and schedules in quantum computing applicatio
   - **P. D. Nation**, Naoki Kanazawa, Thomas Arab Alexander
   - `US10790912B2 <https://patents.google.com/patent/US10790912B2>`_ (2020).
 
+Validating and estimating runtime for quantum algorithms
+  - Ali Javadi, Ismael Faro, Jay M. Gambetta, **P. D. Nation**
+  - `US20200285986A1 <https://patents.google.com/patent/US20200285986A1>`_ (2019).
+
+Optimizing Time-Dependent Simulations of Quantum Computing Architectures
+  - Naoki Kanazawa, **P. D. Nation**
+  - Filled July 16, 2019.
+
+Quantum adaptive compiler service
+  - Jay M. Gambetta, Ismael Faro, Ali Javadi, Paco Martin, **P. D. Nation**
+  - Filled July 11, 2019.
+
+Quantum Pulse Machine Learning auto-optimizer
+  - Paco Martin, Ismael Faro, Jay M. Gambetta, **P. D. Nation**
+  - Filled July 01, 2019.
+
+A System and Method for Constructing Numerical Models for Time-Dependent Hamiltonians and Noise Characteristics of Quantum Computing Devices
+  - Naoki Kanazawa, **P. D. Nation**, Thomas Alexander
+  - Filled June 10, 2019.
+
 
 Computational Programs
 ######################
