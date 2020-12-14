@@ -52,7 +52,7 @@ help on the ecosystem building side of things through the
             years.append(year_div.text)
             
         for cite_div in hist.find_all(attrs={'class':'gsc_g_al'}):
-            citations.append(cite_div.text)
+            citations.append(int(cite_div.text))
 
         import plotly.graph_objects as go
 
