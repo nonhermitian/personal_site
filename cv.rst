@@ -154,6 +154,10 @@ Validating and estimating runtime for quantum algorithms
   - Ali Javadi, Ismael Faro, Jay M. Gambetta, and **P. D. Nation**
   - `US20200285986A1 <https://patents.google.com/patent/US20200285986A1>`_ (2019).
 
+Scalable error mitigation
+  - **P. D. Nation**, Hwajung Kang, and Jay Gambetta
+  - Filled May 07, 2021.
+
 Quantum circuit optimization routine evaluation and knowledge base generation
   - **P. D. Nation**, Ali Javadi, Paco Martin, Ismael Faro, and Jay Gambetta
   - Filled December 15, 2020.
