@@ -47,6 +47,10 @@ Experience
 Honors and Awards
 #################
 
+- 2021 - **Outstanding Technical Achievement Award**, "IBM Quantum Cloud applications and services (Experience / Lab and API)", IBM.
+
+- 2021 - **Outstanding Technical Achievement Award**, "Define Quantum Volume as a metric", IBM.
+
 - 2020 - **Outstanding Research Accomplishment**, "IBM Quantum Cloud Applications and Services", IBM.
 
 - 2020 - **Outstanding Research Accomplishment**, "Quantum Education with Qiskit", IBM.
