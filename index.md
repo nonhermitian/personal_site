@@ -21,5 +21,6 @@ See the [blog archives](blog.md) for a more complete list.
 :hidden:
 projects
 publications
+cv
 blog
 ```
