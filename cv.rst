@@ -19,13 +19,14 @@ Education
 
 2002-2005 - B.S. Physics, Utah State University, Logan, Utah USA.
   - Minor: Mathematics
-  - Graduated cum laude: 3.77/4.0
 
 
 Experience
 ##########
 
-- 2021-Present - **Director of Partner Technical Enablement**, IBM Quantum, Yorktown Heights USA.
+- 2021-Present - **Principal Research Scientist**, IBM Quantum, Yorktown Heights USA.
+
+- 2021-2023 - **Director of Partner Technical Enablement**, IBM Quantum, Yorktown Heights USA.
 
 - 2018-Present - **Research Staff Member**, IBM Quantum, Yorktown Heights USA.
 
@@ -48,6 +49,12 @@ Experience
 
 Honors and Awards
 #################
+
+- 2024 - **Outstanding Technical Achievement Award**, "Development of Qiskit Runtime Primitives to optimize quantum algorithm workflows", IBM.
+
+- 2023 - **Outstanding Technical Achievement Award**, "Mapomatic", IBM.
+
+- 2022 - **Outstanding Technical Achievement Award**, "Matrix-free Measurement Mitigation (M3)", IBM.
 
 - 2021 - **Outstanding Technical Achievement Award**, "IBM Quantum Cloud applications and services (Experience / Lab and API)", IBM.
 
@@ -79,9 +86,44 @@ Honors and Awards
 Publications
 ############
 
+You can also check out `my Google Scholar page <https://scholar.google.com/citations?user=jh5qRs0AAAAJ&hl=en>`_.
+
+Benchmarking the performance of quantum computing software for quantum circuit creation, manipulation and compilation
+  - **Paul D. Nation**, Abdullah Ash Saki, Sebastian Brandhofer, Luciano Bello, Shelly Garion, Matthew Treinish, and Ali Javadi-Abhari 
+  - `Nat. Comput. Sci. (2025) <https://doi.org/10.1038/s43588-025-00792-y>`_
+
+QuTiP 5: The Quantum Toolbox in Python
+  - Neill Lambert, Eric Giguère, Paul Menczel, Boxi Li, Patrick Hopf, Gerardo Suárez, Marc Gali, Jake Lishman, Rushiraj Gadhvi, Rochisha Agarwal, Asier Galicia, Nathan Shammah, **Paul Nation**, J. R. Johansson, Shahnawaz Ahmed, Simon Cross, Alexander Pitchford, and Franco Nori
+  - `arXiv:2412.04705 <https://doi.org/10.48550/arXiv.2412.04705>`_
+
+Quantum computing with Qiskit
+  - Ali Javadi-Abhari, Matthew Treinish, Kevin Krsulich, Christopher J. Wood, Jake Lishman, Julien Gacon,
+  Simon Martiel, **Paul D. Nation**, Lev S. Bishop, Andrew W. Cross, Blake R. Johnson, and Jay M. Gambetta
+  - `arXiv:2405.08810 <https://doi.org/10.48550/arXiv.2405.08810>`_
+
+A Quantum-Classical Method Applied to Material Design: Photochromic Materials Optimization for Photopharmacology Applications
+  - Qi Gao, Michihiko Sugawara, **Paul D. Nation, Takao Kobayashi**, Yu-ya Ohnishi, Hiroyuki Tezuka, and Naoki Yamamoto
+  - `Intellegent Computing 3 (2024) <https://doi.org/10.34133/icomputing.0108>`_
+
+Toward Quantum-Centric Supercomputing: Building a Quantum Ecosystem Via International Collaboration
+  - Jay M. Gambetta and **Paul Nation**
+  - `Proceedings of the U.S.-Japan Socioeconomic Policy Research Exchange (2024) <http://www.rand.org/t/CFA1556-4>`_
+
+Suppressing Quantum Circuit Errors Due to System Variability
+  - **Paul Nation**, and Matthew Treinish
+  - `PRX Quantum 4, 010327 (2023) <https://doi.org/10.1103/PRXQuantum.4.010327>`_
+
+Defining Standard Strategies for Quantum Benchmarks
+  - Mirko Amico, Helena Zhang, Petar Jurcevic, Lev S. Bishop, **Paul Nation**, Andrew Wack, and David C. McKay
+  - `arXiv:2303.02108 <https://doi.org/10.48550/arXiv.2303.02108>`_
+
+Characterizing quantum processors using discrete time crystals
+  - Victoria Zhang, and **Paul D. Nation**
+  - `arXiv:2301.07625 <https://doi.org/10.48550/arXiv.2301.07625>`_
+
 Scalable Mitigation of Measurement Errors on Quantum Computers
   - **Paul D. Nation**, Hwajung Kang, Neereja Sundaresan, and Jay M. Gambetta
-  - `To appear in PRX Quantum <https://arxiv.org/abs/2108.12518>`_
+  - `PRX Quantum 2, 040326 (2021) <https://doi.org/10.1103/PRXQuantum.2.040326>`_
 
 Challenges and Opportunities of Near-Term Quantum Computing Systems
   - Antonio D. Córcoles, Abihinav Kandala, Ali Javadi-Abhari, Douglas T. McClure, Andrew W. Cross, 
@@ -190,16 +232,12 @@ Computational Programs
 
 2021-Present - M3
   - Scalable mitigation of quantum measurement errors in Qiskit.
-  - https://qiskit.org/documentation/partners/mthree/
-
-2020-Present - Kaleidoscope
-  - Interactive visualizations for quantum computation.
-  - https://nonhermitian.org/kaleido
+  - https://github.com/Qiskit/qiskit-addon-mthree
 
 2018-Present - Qiskit
   - Open-source framework for leveraging noisy quantum computers in research, education, and business.
     Focus on user-facing functionality, visualizations, and performant numerical methods.
-  - `Qiskit.org <https://qiskit.org/>`_
+  - https://www.ibm.com/quantum/qiskit
 
 2010-2017 - QuTiP: Quantum Toolbox in Python
   - Open-source framework for solving the dynamics of open quantum systems. Includes Monte-Carlo and master
