@@ -19,8 +19,6 @@ See the [blog archives](blog.md) for a more complete list.
 ```{toctree}
 :maxdepth: 2
 :hidden:
-projects
-publications
 cv
 blog
 ```

@@ -64,10 +64,8 @@ html_theme = "pydata_sphinx_theme"
 
 html_theme_options = {
   "github_url": "https://github.com/nonhermitian",
-  "twitter_url": "https://twitter.com/nonhermitian",
-  "search_bar_text": "Find what your looking for...",
+  "search_bar_text": "Search ...",
   "navbar_end": ["search-field.html", "navbar-icon-links"],
-  "google_analytics_id": "UA-16824831-8",
 }
 
 html_favicon = "_static/favicon.ico"
@@ -84,11 +82,10 @@ html_sidebars = {
     "publications": ["hello.html"],
     "projects": ["hello.html"],
     "talks": ["hello.html"],
-    "posts/**": ['postcard.html', 'download.html',
-                 'recentposts.html', 'archives.html'],
-    "blog": ["categories.html", 'tagcloud.html', 'archives.html'],
-    "blog/**": ['postcard.html', 'download.html',
-                'recentposts.html', 'archives.html']
+    "posts/**": ['ablog/postcard.html', 'download.html',
+                 'ablog/recentposts.html', 'ablog/archives.html'],
+    "blog": ["hello.html", "ablog/categories.html", 'ablog/tagcloud.html', 'ablog/archives.html'],
+
 }
 blog_baseurl = "nonhermitian.org"
 blog_title = "Paul Nation's Blog"
